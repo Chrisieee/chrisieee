@@ -16,12 +16,19 @@ The thing I love the most is the fact I can create my creative ideas and bring t
 - 🎮 Unity with C#.
 
 ### Experience:
-Front-end:
+<p align="center">
+  Front-end:
+</p>
+<p align="center">
 <a href="">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,typescript,py,cs"/>
 </a>
-
+</p>
+<p align="center">
 Back-end & Database:
+</p>
+<p align="center">
 <a href="">
   <img src="https://skillicons.dev/icons?i=php,laravel,express,mysql,sqlite,mongodb"/>
 </a>
+</p>
