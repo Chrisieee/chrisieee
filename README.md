@@ -20,15 +20,25 @@ The thing I love the most is the fact I can create my creative ideas and bring t
   Front-end:
 </p>
 <p align="center">
-<a href="">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,typescript,py,cs"/>
-</a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,typescript,py,cs"/>
+  </a>
+</p>
+
+<p align="center">
+  Back-end:
 </p>
 <p align="center">
-Back-end & Database:
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=php,laravel,express"/>
+  </a>
+</p>
+
+<p align="center">
+  Database:
 </p>
 <p align="center">
-<a href="">
-  <img src="https://skillicons.dev/icons?i=php,laravel,express,mysql,sqlite,mongodb"/>
-</a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"/>
+  </a>
 </p>
