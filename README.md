@@ -21,7 +21,7 @@ The thing I love the most is the fact I can create my creative ideas and bring t
 </p>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,typescript,py,cs"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,typescript"/>
   </a>
 </p>
 
