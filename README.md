@@ -21,7 +21,7 @@ The thing I love the most is the fact I can create my creative ideas and bring t
 </p>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,blender,unity,godot,"/>
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr"/>
   </a>
 </p>
 
@@ -49,6 +49,15 @@ The thing I love the most is the fact I can create my creative ideas and bring t
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"/>
+  </a>
+</p>
+
+<p align="center">
+  Gamedevelopment & 3D:
+</p>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=blender,unity,godot"/>
   </a>
 </p>
 
