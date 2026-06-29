@@ -21,7 +21,7 @@ The thing I love the most is the fact I can create my creative ideas and bring t
 </p>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr"/>
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,ae"/>
   </a>
 </p>
 
@@ -30,7 +30,7 @@ The thing I love the most is the fact I can create my creative ideas and bring t
 </p>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,ts"/>
   </a>
 </p>
 
@@ -57,15 +57,6 @@ The thing I love the most is the fact I can create my creative ideas and bring t
 </p>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=blender,unity,godot"/>
-  </a>
-</p>
-
-<p align="center">
-  Little bit of experience:
-</p>
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=ae,unreal,py,cs,ts"/>
+    <img src="https://skillicons.dev/icons?i=unity,godot,unreal,cs,py,blender"/>
   </a>
 </p>
