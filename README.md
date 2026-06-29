@@ -42,3 +42,12 @@ The thing I love the most is the fact I can create my creative ideas and bring t
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"/>
   </a>
 </p>
+
+<p align="center">
+  Little bit of experience:
+</p>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=py,cs"/>
+  </a>
+</p>
