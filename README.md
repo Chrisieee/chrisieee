@@ -17,11 +17,20 @@ The thing I love the most is the fact I can create my creative ideas and bring t
 
 ### Experience:
 <p align="center">
+  Design:
+</p>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps,ae,pr,unity,blender,"/>
+  </a>
+</p>
+
+<p align="center">
   Front-end:
 </p>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,typescript"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react"/>
   </a>
 </p>
 
@@ -48,6 +57,6 @@ The thing I love the most is the fact I can create my creative ideas and bring t
 </p>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=py,cs"/>
+    <img src="https://skillicons.dev/icons?i=py,cs,ts,godot,unreal"/>
   </a>
 </p>
